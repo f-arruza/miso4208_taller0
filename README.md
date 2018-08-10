@@ -71,3 +71,10 @@ Capturas de pantalla - Instalación:
 Capturas de pantalla - Instalación:
 
 ![alt text](git01.png)
+
+Comandos para configurar credenciales:
+```
+git config --global user.name f-arruza
+git config --global user.email f.arruza@uniandes.edu.co
+```
+![alt text](git02.png)

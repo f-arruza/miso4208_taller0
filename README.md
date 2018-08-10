@@ -106,3 +106,23 @@ Capturas de pantalla - API REST:
 ![alt text](api_rest04.png)
 
 ### Ruby
+Se realizó la instalación de Ruby a través del terminal, utilizando los siguientes comandos:
+```
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+exec $SHELL
+
+git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+exec $SHELL
+
+rbenv install 2.5.1
+rbenv global 2.5.1
+ruby -v
+```
+
+Capturas de pantalla - Instalación:
+
+![alt text](ruby01.png)
+![alt text](ruby02.png)

@@ -1,4 +1,4 @@
-# TALLER 0
+# TALLER 0: Configuración del ambiente de trabajo.
 
 ### Máquina Virtual con Ubuntu 16.04 en VirtualBox
 Capturas de pantalla:
@@ -25,7 +25,7 @@ Capturas de pantalla:
 ![alt text](chrome04.png)
 
 ### Google Lighthouse
-Lighthouse es una herramienta automatizada de código abierto diseñada para mejorar la calidad de tus apps web. Puedes ejecutarla como una extensión de Chrome o desde la línea de comandos. Le proporcionas a Lighthouse una URL que quieres auditar, Lighthouse ejecuta una serie de pruebas contra la página, y luego genera un informe sobre el rendimiento de la página. A partir de aquí, puedes usar las pruebas desaprobadas como indicadores de lo que puedes hacer para mejorar tu app.
+__Lighthouse__ es una herramienta automatizada de código abierto diseñada para mejorar la calidad de tus apps web. Puedes ejecutarla como una extensión de Chrome o desde la línea de comandos. Le proporcionas a Lighthouse una URL que quieres auditar, Lighthouse ejecuta una serie de pruebas contra la página, y luego genera un informe sobre el rendimiento de la página. A partir de aquí, puedes usar las pruebas desaprobadas como indicadores de lo que puedes hacer para mejorar tu app.
 
 __Nota__: Lighthouse actualmente tiene un gran enfoque sobre las funciones de las Progressive Web Apps, como Add to homescreen y soporte sin conexión. Sin embargo, el objetivo general del proyecto es ofrecer una auditoría de extremo a extremo de todos los aspectos de la calidad de la app web.
 
@@ -86,6 +86,10 @@ git config --global user.email f.arruza@uniandes.edu.co
 ![alt text](git02.png)
 
 ### NodeJS
+Es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación ECMAScript, asíncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google.
+
+Fuente: https://es.wikipedia.org/wiki/Node.js
+
 Se realizó la instalación de NodeJS a través del terminal, utilizando los siguientes comandos:
 ```
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
@@ -100,6 +104,7 @@ Capturas de pantalla - Instalación:
 ![alt text](nodejs03.png)
 
 Capturas de pantalla - API REST:
+
 ![alt text](api_rest01.png)
 ![alt text](api_rest02.png)
 ![alt text](api_rest03.png)
@@ -126,3 +131,4 @@ Capturas de pantalla - Instalación:
 
 ![alt text](ruby01.png)
 ![alt text](ruby02.png)
+![alt text](ruby03.png)

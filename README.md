@@ -1,7 +1,13 @@
 # TALLER 0
 
-### Google Chrome
+### Máquina Virtual con Ubuntu 16.04 en VirtualBox
+Capturas de pantalla:
 
+![alt text](vm01.png)
+![alt text](vm02.png)
+![alt text](vm03.png)
+
+### Google Chrome
 Se realizó la instalación a través del terminal, utilizando los siguientes comandos:
 ```
 sudo nano /etc/apt/sources.list

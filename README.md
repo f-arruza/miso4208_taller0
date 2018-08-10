@@ -11,7 +11,7 @@ sudo apt-key add linux_signing_key.pub
 sudo apt update
 sudo apt install google-chrome-stable
 ```
-Evidencias:
+Capturas de pantalla:
 
 ![alt text](chrome01.png)
 ![alt text](chrome02.png)
@@ -24,3 +24,18 @@ Lighthouse es una herramienta automatizada de código abierto diseñada para mej
 __Nota__: Lighthouse actualmente tiene un gran enfoque sobre las funciones de las Progressive Web Apps, como Add to homescreen y soporte sin conexión. Sin embargo, el objetivo general del proyecto es ofrecer una auditoría de extremo a extremo de todos los aspectos de la calidad de la app web.
 
 Fuente: https://developers.google.com/web/tools/lighthouse/?hl=es
+
+Capturas de pantalla - Instalación:
+
+![alt text](lighthouse01.png)
+![alt text](lighthouse02.png)
+
+Capturas de pantalla - Ejecución:
+
+![alt text](lighthouse_test01.png)
+![alt text](lighthouse_test02.png)
+![alt text](lighthouse_test03.png)
+![alt text](lighthouse_test04.png)
+![alt text](lighthouse_test05.png)
+
+### Web Server for Chrome

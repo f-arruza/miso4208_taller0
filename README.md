@@ -98,3 +98,11 @@ Capturas de pantalla - Instalación:
 ![alt text](nodejs01.png)
 ![alt text](nodejs02.png)
 ![alt text](nodejs03.png)
+
+Capturas de pantalla - API REST:
+![alt text](api_rest01.png)
+![alt text](api_rest02.png)
+![alt text](api_rest03.png)
+![alt text](api_rest04.png)
+
+### Ruby

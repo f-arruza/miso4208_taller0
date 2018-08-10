@@ -84,3 +84,17 @@ git config --global user.name f-arruza
 git config --global user.email f.arruza@uniandes.edu.co
 ```
 ![alt text](git02.png)
+
+### NodeJS
+Se realizó la instalación de NodeJS a través del terminal, utilizando los siguientes comandos:
+```
+curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+sudo apt-get install -y nodejs
+sudo apt-get install -y build-essential
+```
+
+Capturas de pantalla - Instalación:
+
+![alt text](nodejs01.png)
+![alt text](nodejs02.png)
+![alt text](nodejs03.png)

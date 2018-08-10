@@ -52,3 +52,22 @@ Lista de programas que cumplen con la misma funcionalidad:
  - Apache HTTP Server
  - Nginx
  - SimpleHTTPServer (python)
+
+### IDE preferido
+Se realizó la instalación de ATOM a través del terminal, utilizando los siguientes comandos:
+```
+sudo add-apt-repository ppa:webupd8team/atom
+sudo apt update
+sudo apt install atom
+```
+
+Capturas de pantalla - Instalación:
+
+![alt text](atom01.png)
+![alt text](atom02.png)
+![alt text](atom03.png)
+
+### Git
+Capturas de pantalla - Instalación:
+
+![alt text](git01.png)

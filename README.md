@@ -39,3 +39,16 @@ Capturas de pantalla - Ejecución:
 ![alt text](lighthouse_test05.png)
 
 ### Web Server for Chrome
+Capturas de pantalla - Instalación:
+
+![alt text](webserver_chrome01.png)
+![alt text](webserver_chrome02.png)
+
+Capturas de pantalla - Ejecución:
+
+![alt text](webserver_chrome03.png)
+
+Lista de programas que cumplen con la misma funcionalidad:
+ - Apache HTTP Server
+ - Nginx
+ - SimpleHTTPServer (python)
